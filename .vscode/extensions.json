@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "ms-python.black-formatter",
+    "oderwat.indent-rainbow",
+    "njpwerner.autodocstring",
+    "deerawan.vscode-dash"
+  ]
+}
